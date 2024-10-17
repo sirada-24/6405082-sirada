@@ -1,16 +1,17 @@
 {
   "files": {
     "main.css": "/6405082-sirada/static/css/main.e6c13ad2.css",
-    "main.js": "/6405082-sirada/static/js/main.84fa1387.js",
+    "main.js": "/6405082-sirada/static/js/main.fa8fd9ce.js",
     "static/js/453.8680dfd1.chunk.js": "/6405082-sirada/static/js/453.8680dfd1.chunk.js",
     "static/media/honda-civic.jpg": "/6405082-sirada/static/media/honda-civic.7ab6fe8a5c9ffc0a9ce1.jpg",
+    "static/media/Civic.jpg": "/6405082-sirada/static/media/Civic.acf7419f30d4fba38f66.jpg",
     "index.html": "/6405082-sirada/index.html",
     "main.e6c13ad2.css.map": "/6405082-sirada/static/css/main.e6c13ad2.css.map",
-    "main.84fa1387.js.map": "/6405082-sirada/static/js/main.84fa1387.js.map",
+    "main.fa8fd9ce.js.map": "/6405082-sirada/static/js/main.fa8fd9ce.js.map",
     "453.8680dfd1.chunk.js.map": "/6405082-sirada/static/js/453.8680dfd1.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.e6c13ad2.css",
-    "static/js/main.84fa1387.js"
+    "static/js/main.fa8fd9ce.js"
   ]
 }
