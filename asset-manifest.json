@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/sirada-24/6405082-sirada/settings/pages/static/css/main.e6c13ad2.css",
-    "main.js": "/sirada-24/6405082-sirada/settings/pages/static/js/main.47987bb0.js",
-    "static/js/453.8680dfd1.chunk.js": "/sirada-24/6405082-sirada/settings/pages/static/js/453.8680dfd1.chunk.js",
-    "static/media/honda-civic.jpg": "/sirada-24/6405082-sirada/settings/pages/static/media/honda-civic.7ab6fe8a5c9ffc0a9ce1.jpg",
-    "index.html": "/sirada-24/6405082-sirada/settings/pages/index.html",
-    "main.e6c13ad2.css.map": "/sirada-24/6405082-sirada/settings/pages/static/css/main.e6c13ad2.css.map",
-    "main.47987bb0.js.map": "/sirada-24/6405082-sirada/settings/pages/static/js/main.47987bb0.js.map",
-    "453.8680dfd1.chunk.js.map": "/sirada-24/6405082-sirada/settings/pages/static/js/453.8680dfd1.chunk.js.map"
+    "main.css": "/6405082-sirada/static/css/main.e6c13ad2.css",
+    "main.js": "/6405082-sirada/static/js/main.84fa1387.js",
+    "static/js/453.8680dfd1.chunk.js": "/6405082-sirada/static/js/453.8680dfd1.chunk.js",
+    "static/media/honda-civic.jpg": "/6405082-sirada/static/media/honda-civic.7ab6fe8a5c9ffc0a9ce1.jpg",
+    "index.html": "/6405082-sirada/index.html",
+    "main.e6c13ad2.css.map": "/6405082-sirada/static/css/main.e6c13ad2.css.map",
+    "main.84fa1387.js.map": "/6405082-sirada/static/js/main.84fa1387.js.map",
+    "453.8680dfd1.chunk.js.map": "/6405082-sirada/static/js/453.8680dfd1.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.e6c13ad2.css",
-    "static/js/main.47987bb0.js"
+    "static/js/main.84fa1387.js"
   ]
 }
